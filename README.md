@@ -1,5 +1,7 @@
 # PasswordGenerator
 
+My first crack at Angular. I have decided to build a password generator with the Angular framework and learn how to do it soley from the angular documentation..
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
 ## Development server
